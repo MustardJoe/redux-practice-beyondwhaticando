@@ -1,4 +1,4 @@
-import { ADD_DRINK, REMOVE_DRINK } from '../action/lunchActions';
+import { ADD_DRINK, REMOVE_DRINK } from '../actions/lunchActions';
 
 const initialState = {
   drinks: [],
